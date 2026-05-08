@@ -94,7 +94,7 @@ ame ins syca
 Clone the repository and build the package manually:
 
 ```bash
-git clone https://github.com/0xraincandy/syca.git
+git clone https://github.com/xkikiyaa/syca.git
 cd syca
 makepkg -si
 ```
